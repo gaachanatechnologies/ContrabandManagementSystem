@@ -1,0 +1,26 @@
+{
+  "name": "Ethiopian Federal Police - Contraband Management System",
+  "short_name": "EFP CMS",
+  "description": "Contraband Management System for Ethiopian Federal Police",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#1e3a8a",
+  "theme_color": "#1e40af",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "/images/efp-logo.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/images/efp-logo.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ],
+  "categories": ["government", "productivity", "utilities"],
+  "lang": "en"
+}
